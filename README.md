@@ -25,5 +25,3 @@ This repository contains a Power BI dashboard designed to analyze the demographi
 ## 🤝 Contributing
 Suggestions and improvements are always welcome! Feel free to open an issue or submit a pull request if you have ideas for new DAX measures, data transformations, or visual enhancements.
 
-## 📄 License
-[Insert License Type, e.g., MIT License]
